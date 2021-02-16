@@ -1,9 +1,13 @@
-## Welcome to GitHub Pages
+## Project 1
 
-You can use the [editor on GitHub](https://github.com/rhlee123/Project_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of project 1 is to evaluate the performance of different regressors when predicting the price of a property using the number of rooms. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Initializing 
+```python
 
+def
+
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
