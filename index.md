@@ -263,8 +263,7 @@ Validated MAE Support Vector Regression = $4,130.50
 
 ### Conclusion 
 
-After evaluating the different regressors and the mean absolute error of their predicitons, the most accurate model at predicting price using the number of rooms was the locally weighted regression that used the quartic kernel. After k-fold validation, the localy weighted regression's mean absolute error of $4,107.47 was the lowest out of all the models tested.
+After evaluating the different regressors and the mean absolute error of their predicitons, the most accurate model at predicting price using the number of rooms was the locally weighted regression that used the quartic kernel. After k-fold validation, the quartic kernel weighted regression's mean absolute error of $4,107.47 was the lowest out of all the models tested. The quartic kernel weighted regression not only performed better than the other kernel weighted regressions, but outperformed all the other models tested. 
 
-Conversely, the worst performing model tested was the SVM model that used a linear kernel, which yielded the highest mean absolute error of $4,432.00. 
-
+Conversely, the worst performing model tested was the baseline linear regression, which yielded the highest mean absolute error of $4,433.17. Additionally, The SVM that used a linear kernel also performed poorly with a similar mean absolute error of $4,432.00.
 
